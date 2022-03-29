@@ -1,0 +1,35 @@
+{
+    "name": "slotgacor/link-slot-gacor",
+    "description": "Daftar Link Bocoran Slot Gacor Hari Ini",
+    "keywords": [
+        "situs slot gacor",
+        "slot gacor",
+        "slot gacor hari ini",
+        "situs slot gacor hari ini",
+        "slot gacor 2022",
+        "slot gacor malam ini",
+        "situs slot gacor 2022",
+        "gacor slot",
+        "info slot gacor hari ini",
+        "slot online gacor",
+        "slot gacor terbaru",
+        "link slot gacor",
+        "bocoran slot gacor hari ini",
+        "agen slot gacor",
+        "link slot gacor hari ini",
+        "situs gacor slot"
+      ],
+    "license": "BSD-3-Clause",
+    "type": "library",
+    "authors": [
+        {
+            "name": "QQBARENG",
+            "email": "qqbareng@preout.download"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SlotGacor": "src/"
+        }
+    }
+}
